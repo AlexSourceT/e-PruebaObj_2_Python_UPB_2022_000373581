@@ -1,0 +1,80 @@
+creado el 16-09-2022  11:24:26 por Alexander Fuentes Trujillo
+
+
+CONCEPTOS NECCESARIOS:
+
+Material particulado:
+Este afecta mucho en salud, vegetación y infraestructura, este material es una compleja mezcla
+de contaminantes, sólidos y líquidos como los sulfatos, nitratos, amoniaco, cloruro de sodio,
+hollín, polvos minerales y el agua.
+
+El material particulado tiene varias clasificaciones, pero generalmente se usan las PM10 y PM2.5
+
+PM10:
+material particulado con partículas de 10 micrones o menos,se suelen producir en demoliciones, construcciones
+y el polvo de las calles
+
+PM 2.5:
+material particulado con partículas de 2.5 micrones o menos, todos los motores de combustión y cualquier otra
+combustión en el ambiente, es el tipo de contaminación mas abundante y perjudicial para la salud, estas diminutas
+partículas pueden pasar de los pulmones a la sangre
+
+
+       PROMEDIO DE CONTAMINACION EN EL AIRE DEL AÑO 2010 AL 2021
+
+Country Name         | PM2.5 (ug/m3) | PM10 (ug/m3) | NO2(ug/m3) |
+Australia----------- |    8.6855     |    20.661    |   8.4538   |
+Austria------------- |    18.357     |    25.29     |   27.486   |
+Bahrain------------- |    40.725     |    109.86    |   51.625   |
+Bangladesh---------- |    60.807     |    134.2     |   32.135   |
+Belgium------------- |    15.861     |    23.612    |   25.269   |
+Brazil-------------- |    15.422     |    30.033    |   24.506   |
+Bulgaria------------ |    22.967     |    43.206    |   25.191   |
+Canada-------------- |    6.9274     |    13.833    |   13.583   |
+Chile--------------- |    16.561     |    39.731    |   16.46    |
+Costa Rica---------- |    22.0       |    21.75     |   40.71    |
+Croatia------------- |    10.94      |    24.0      |   11.76    |
+Cyprus-------------- |    16.448     |    37.746    |   17.716   |
+Czechia------------- |    20.257     |    26.857    |   18.072   |
+Denmark------------- |    13.97      |    22.03     |   33.57    |
+Estonia------------- |    6.3084     |    12.626    |   8.7937   |
+Finland------------- |    8.703      |    15.841    |   20.992   |
+France-------------- |    17.749     |    25.666    |   26.911   |
+Germany------------- |    17.421     |    23.718    |   29.849   |
+Greece-------------- |    19.69      |    29.51     |   21.04    |
+Hungary------------- |    21.642     |    31.093    |   27.608   |
+Iceland------------- |    7.735      |    15.02     |   7.94     |
+India--------------- |    40.659     |    91.894    |   21.043   |
+Ireland------------- |    11.16      |    15.81     |   28.89    |
+Italy--------------- |    19.991     |    28.842    |   31.877   |
+Jordan-------------- |    26.83      |    59.13     |   27.04    |
+Kuwait-------------- |    45.052     |    119.76    |   28.056   |
+Latvia-------------- |    27.47      |    38.97     |   41.66    |
+Lebanon------------- |    17.0       |    49.5      |   53.0     |
+Lithuania----------- |    15.529     |    27.928    |   19.557   |
+Luxembourg---------- |    14.073     |    19.127    |   30.723   |
+Malta--------------- |    13.29      |    34.476    |   17.894   |
+Mexico-------------- |    23.538     |    53.728    |   61.73    |
+Netherlands--------- |    17.071     |    25.586    |   29.661   |
+Norway-------------- |    5.6982     |    11.132    |   16.768   |
+Poland-------------- |    27.69      |    35.684    |   20.66    |
+Portugal------------ |    8.4325     |    21.978    |   17.573   |
+Qatar--------------- |    40.0       |    159.0     |   35.2     |
+Republic of Korea--- |    23.275     |    41.373    |   34.669   |
+Romania------------- |    16.279     |    27.915    |   27.323   |
+Senegal------------- |    29.856     |    136.47    |   22.38    |
+Singapore----------- |    15.0       |    29.0      |   26.0     |
+Slovakia------------ |    25.08      |    39.913    |   26.703   |
+Slovenia------------ |    15.198     |    19.848    |   14.856   |
+South Africa-------- |    22.563     |    44.947    |   21.407   |
+Spain--------------- |    9.8448     |    21.369    |   14.578   |
+Sweden-------------- |    6.1507     |    14.294    |   10.609   |
+Thailand------------ |    25.909     |    45.692    |   20.015   |
+Trinidad and Tobago- |    12.65      |    28.25     |   12.4     |
+Turkey-------------- |    18.587     |    33.686    |   40.66    |
+United Kingdom------ |    12.459     |    18.25     |   32.686   |
+             Datos de 50 paises
+
+estos datos seran utilies para aquellos residentes o turistas hacias esos paises para que puedan tomar medidad contra esos
+indices de contaminacion, puesto que paises con alto indice de contaminación en el aire se puede llegar a contraer graves
+enfermedades respitarotorias
